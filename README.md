@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 ### 💻 Representative Repository 💻 
 
-| <a href="https://github.com/wnaely/Amazent"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wnaely&repo=Amazent&show_owner=true&theme=nord&hide_border=true" /></a> | <a href="https://github.com/YunJoomi/zblog2023"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YunJoomi&repo=zblog2023&show_owner=true&theme=nord&hide_border=true" /></a> |
+| <a href="https://github.com/wnaely/Amazent"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wnaely&repo=Amazent&show_owner=true&theme=nord&hide_border=true" /></a> | <a href="https://github.com/wnaely/Sentyle"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wnaely&repo=Sentyle&show_owner=true&theme=nord&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
