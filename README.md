@@ -18,6 +18,8 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=708BA7&height=250&section=header&text=wnaely's%20GitHub%20Profile&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=FFFFFF)
 
+<h3>AI소프트웨어과 졸업생</h3>
+
 <h3>📫 Contact 📫</h3>
   <a href="mailto:wnaeldy@gmail.com">
     <img
