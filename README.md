@@ -15,9 +15,3 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=708BA7&height=250&section=header&text=wnaely's%20GitHub%20Profile&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=FFFFFF)
-
-
-### 💻 Representative Repository 💻 
-
-| <a href="https://github.com/wnaely/Amazent"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wnaely&repo=Amazent&show_owner=true&theme=nord&hide_border=true" /></a> | <a href="https://github.com/wnaely/Sentyle"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wnaely&repo=Sentyle&show_owner=true&theme=nord&hide_border=true" /></a> |
-| ------------- | ------------- |
