@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=708BA7&height=250&section=header&text=wnaely's%20GitHub%20Profile&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=FFFFFF)
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
+<h3>📫 Contact 📫</h3>
   <a href="mailto:wnaeldy@gmail.com">
     <img
-      src="https://img.shields.io/badge/wnaeldy@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+      src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
-</div>
