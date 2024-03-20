@@ -18,9 +18,9 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=708BA7&height=250&section=header&text=wnaely's%20GitHub%20Profile&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=FFFFFF)
 
-  <img src="https://img.shields.io/badge/Graduated-AI Software-9999FF?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Graduated-AI Software-787DE8?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/>
   </a>
   
   <a href="mailto:wnaeldy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF5A5F?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-FA5555?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
